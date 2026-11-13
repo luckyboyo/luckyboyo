@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="100" viewBox="0 0 580 100" fill="none" role="img" aria-labelledby="title">
+<title id="title">fangziyue.cn — Personal website and resume</title>
+<defs><linearGradient id="bg" x2="580" y2="100" gradientUnits="userSpaceOnUse"><stop stop-color="#2563EB"/><stop offset="1" stop-color="#0D9488"/></linearGradient></defs>
+<rect x="1" y="1" width="578" height="98" rx="22" fill="url(#bg)"/>
+<circle cx="49" cy="50" r="17" stroke="white" stroke-width="2"/><ellipse cx="49" cy="50" rx="7" ry="17" stroke="white" stroke-width="2"/><path d="M33 44H65M33 56H65" stroke="white" stroke-width="2"/>
+<text x="89" y="44" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="650">fangziyue.cn</text>
+<text x="89" y="70" fill="#E0F2FE" font-family="Segoe UI, Arial, sans-serif" font-size="15" letter-spacing="1.5">RESUME &amp; SELECTED WORK</text>
+<path d="M508 61L533 36M513 36H533V56" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

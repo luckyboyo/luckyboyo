@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="190" viewBox="0 0 560 190" fill="none" role="img" aria-labelledby="title">
+<title id="title">Knowledge RAG — Grounded question answering</title>
+<defs><linearGradient id="bg" x2="560" y2="190" gradientUnits="userSpaceOnUse"><stop stop-color="#10383E"/><stop offset="1" stop-color="#0B1224"/></linearGradient></defs>
+<rect width="560" height="190" rx="14" fill="url(#bg)"/>
+<path d="M360 0V190M420 0V190M480 0V190M540 0V190M330 35H560M330 95H560M330 155H560" stroke="#5EEAD4" stroke-opacity=".07"/>
+<text x="30" y="37" fill="#5EEAD4" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="2">02 / KNOWLEDGE RETRIEVAL</text>
+<text x="30" y="86" fill="#F1F5F9" font-family="Segoe UI, Arial, sans-serif" font-size="33" font-weight="700">Knowledge RAG</text>
+<text x="30" y="116" fill="#A9B8D3" font-family="Segoe UI, Arial, sans-serif" font-size="15">Better context. Grounded answers.</text>
+<path d="M31 153H276" stroke="#5EEAD4" stroke-opacity=".25" stroke-width="2"/>
+<g fill="#5EEAD4"><circle cx="31" cy="153" r="4"/><circle cx="113" cy="153" r="4"/><circle cx="195" cy="153" r="4"/><circle cx="276" cy="153" r="4"/></g>
+<circle cx="440" cy="95" r="69" stroke="#5EEAD4" stroke-opacity=".16"/>
+<path d="M409 67L471 79L440 126L409 67ZM440 126L489 122M471 79L489 122M409 67L389 112L440 126" stroke="#5EEAD4" stroke-opacity=".55" stroke-width="2"/><g fill="#0F2A32" stroke="#5EEAD4" stroke-width="2.5"><circle cx="409" cy="67" r="7"/><circle cx="471" cy="79" r="7"/><circle cx="440" cy="126" r="9"/><circle cx="489" cy="122" r="5"/><circle cx="389" cy="112" r="5"/></g>
+</svg>

@@ -1,76 +1,85 @@
-<p align="center">
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luckyboyo/luckyboyo/main/assets/header-dark-static.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/luckyboyo/luckyboyo/main/assets/header-static.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luckyboyo/luckyboyo/main/assets/header-dark.svg" />
   <img src="https://raw.githubusercontent.com/luckyboyo/luckyboyo/main/assets/header.svg" width="100%" alt="Fang Ziyue — AI Agents · RAG · AI Engineering" />
+</picture>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luckyboyo/luckyboyo/main/assets/intro-dark-static.svg" />
+    <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/luckyboyo/luckyboyo/main/assets/intro-static.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luckyboyo/luckyboyo/main/assets/intro-dark.svg" />
+    <img src="https://raw.githubusercontent.com/luckyboyo/luckyboyo/main/assets/intro.svg" width="600" alt="Building AI agents that work together. Connecting knowledge through RAG. Learning by building. One step at a time." />
+  </picture>
 </p>
 
 <p align="center">
-  <strong>你好，我是方子悦 👋</strong><br />
-  <sub>探索智能体与知识检索，把想法做成可运行、可验证的 AI 应用。</sub>
+  <a href="https://fangziyue.cn"><img src="https://raw.githubusercontent.com/luckyboyo/luckyboyo/main/assets/visit-site.svg" width="290" alt="访问 fangziyue.cn · 查看个人简历与作品集" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HKU-Robotics_%26_Intelligent_Systems-2563EB?style=for-the-badge" alt="香港大学 · 机器人与智能系统" />
-  <a href="https://fangziyue.cn"><img src="https://img.shields.io/badge/Website-fangziyue.cn-0D9488?style=for-the-badge" alt="个人网站 · 在线简历与项目作品集" /></a>
+  <strong>方子悦 · Fang Ziyue</strong><br />
+  <sub>HKU · Robotics &amp; Intelligent Systems &nbsp; / &nbsp; HFUT · Electronic Information Engineering</sub>
 </p>
 
----
+<h2>01 &nbsp; About me</h2>
 
-## 👋 About me
+<p>你好，我是<strong>方子悦</strong> 👋 香港大学<strong>机器人与智能系统硕士在读</strong>，本科毕业于合肥工业大学电子信息工程专业。</p>
 
-我是 **方子悦（Fang Ziyue）**，目前在香港大学攻读**机器人与智能系统硕士**，本科毕业于合肥工业大学电子信息工程专业。
+<p>我关注 <strong>AI Agents、检索增强生成与 AI 应用工程化</strong>。喜欢把复杂任务拆成清晰的工作流，把分散的知识变成可用的上下文，再让想法成为可运行、可验证的应用。</p>
 
-我的兴趣是 **AI Agents、检索增强生成（RAG）与 AI 应用工程化**。我喜欢把复杂任务拆成清晰的工作流，也关注模型接入之后的检索质量、状态管理、执行验证和使用体验。
+<blockquote>
+  <p><strong>从理解问题，到构建系统。</strong><br />多智能体协作 · 知识检索 · 执行验证 · 持续迭代</p>
+</blockquote>
 
-- 🤖 **多智能体协作**：用 LangGraph 串联代码探索、编写、评审与测试。
-- 📚 **知识库问答**：探索混合检索、查询理解、上下文组织与回答质量评估。
-- 🛠️ **工程实践**：让原型具备清晰的结构、可复现的部署方式和可追踪的执行过程。
+<h2>02 &nbsp; Selected work</h2>
 
-## 🧰 Tech stack
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/luckyboyo/Code_agent"><img src="https://raw.githubusercontent.com/luckyboyo/luckyboyo/main/assets/code-agent.svg" width="100%" alt="Code Agent — Explore, Code, Review, Test" /></a>
+      <h3><a href="https://github.com/luckyboyo/Code_agent">Code Agent ↗</a></h3>
+      <p><strong>让多个 Agent，协作完成一个任务。</strong></p>
+      <p>用 LangGraph 编排代码探索、编写、评审与测试；通过反馈回路、会话检查点和审计日志，让执行过程可追踪。</p>
+      <p><sub>Python · LangGraph · Redis · PostgreSQL</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/luckyboyo/RAG"><img src="https://raw.githubusercontent.com/luckyboyo/luckyboyo/main/assets/rag.svg" width="100%" alt="Knowledge RAG — Retrieve, Rank, Generate, Evaluate" /></a>
+      <h3><a href="https://github.com/luckyboyo/RAG">Knowledge RAG ↗</a></h3>
+      <p><strong>让知识被找到，让回答有依据。</strong></p>
+      <p>融合关键词与向量检索，结合查询理解与父子分块组织上下文，以流式回答和 RAGAS 评估连接体验与质量。</p>
+      <p><sub>Python · pgvector · Streamlit · RAGAS</sub></p>
+    </td>
+  </tr>
+</table>
+
+<h3>Personal website &nbsp; / &nbsp; 个人简历与作品集</h3>
+
+<p>关于我的教育背景、技术经历与项目实践，都放在这里。使用 Next.js、TypeScript 与 Tailwind CSS 构建。</p>
+
+<p><a href="https://fangziyue.cn"><strong>打开在线简历 ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/luckyboyo/resume-site">查看网站源码</a></p>
+
+<h2>03 &nbsp; Tools I build with</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,ts,react,nextjs,postgres,redis,docker,git,linux&perline=5" alt="Python, C++, TypeScript, React, Next.js, PostgreSQL, Redis, Docker, Git, Linux" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luckyboyo/luckyboyo/main/assets/tech-stack-dark.svg" />
+    <img src="https://raw.githubusercontent.com/luckyboyo/luckyboyo/main/assets/tech-stack.svg" width="330" alt="Python, C++, TypeScript, React, Next.js, PostgreSQL, Redis, Docker, Git, Linux" />
+  </picture>
 </p>
 
 <p align="center">
-  <strong>AI &amp; Retrieval</strong><br />
-  <code>LangGraph</code> · <code>LangChain</code> · <code>RAG</code> · <code>pgvector</code> · <code>RAGAS</code><br /><br />
-  <strong>Application &amp; Tooling</strong><br />
-  <code>Streamlit</code> · <code>Flask</code> · <code>Docker Compose</code> · <code>ROS 2</code>
+  <strong>Agents &amp; Retrieval</strong><br />
+  <sub>LangGraph · LangChain · RAG · pgvector · RAGAS</sub><br /><br />
+  <strong>Applications &amp; Systems</strong><br />
+  <sub>Streamlit · Flask · Docker Compose · ROS 2</sub>
 </p>
 
-## ✨ Selected projects
-
-### 🤖 [Code Agent · 多智能体软件工程助手](https://github.com/luckyboyo/Code_agent)
-
-围绕一个编程任务，让多个职责明确的 Agent 协作完成**理解 → 编写 → 评审 → 验证**。
-
-- **Supervisor** 拆解任务并调度 Explorer、Coder、Reviewer、Executor。
-- 通过 Coder–Reviewer 反馈回路迭代代码，由 Executor 运行测试验证。
-- 使用 Redis 保存会话检查点，以 PostgreSQL 记录操作审计日志。
-
-`Python` `LangGraph` `LangChain` `Redis` `PostgreSQL`
-
-### 📚 [RAG · 本地知识库问答系统](https://github.com/luckyboyo/RAG)
-
-从文档入库到流式回答，构建一条包含检索、生成与评估的知识库问答链路。
-
-- **关键词 + 语义向量双路召回**，结合 RRF 融合排序与 Dynamic Top-K。
-- 通过查询重写、问题拆分与 Parent–Child 分块组织回答上下文。
-- 用 Streamlit 提供交互界面，结合 LLM-as-Judge 与 RAGAS 评估质量。
-
-`Python` `pgvector` `bge-m3` `Streamlit` `Docker Compose` `RAGAS`
-
-### 🌐 [Resume Site · 个人简历与作品集](https://github.com/luckyboyo/resume-site)
-
-以简洁的页面呈现教育背景、技术经历和项目实践，使用 Next.js、TypeScript 与 Tailwind CSS 构建，支持静态导出部署。
-
-[在线简历 ↗](https://fangziyue.cn)
-
-`Next.js` `React` `TypeScript` `Tailwind CSS`
-
----
+<hr />
 
 <p align="center">
-  <strong>Learn by building. Improve by iterating.</strong><br />
-  <sub>欢迎浏览我的项目，也欢迎通过项目 Issues 交流实现思路与改进建议。</sub><br /><br />
-  <a href="https://github.com/luckyboyo?tab=repositories">查看全部仓库 ↗</a>
+  <strong>Stay curious. Build with purpose.</strong><br />
+  <sub>在实践中学习，在迭代中进步。欢迎通过项目 Issues 交流想法。</sub><br /><br />
+  <a href="https://fangziyue.cn">个人网站</a> &nbsp; / &nbsp; <a href="https://github.com/luckyboyo?tab=repositories">全部项目</a>
 </p>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="190" viewBox="0 0 560 190" fill="none" role="img" aria-labelledby="title">
+<title id="title">Code Agent — Multi-agent workflow</title>
+<defs><linearGradient id="bg" x2="560" y2="190" gradientUnits="userSpaceOnUse"><stop stop-color="#142852"/><stop offset="1" stop-color="#0B1224"/></linearGradient></defs>
+<rect width="560" height="190" rx="14" fill="url(#bg)"/>
+<path d="M360 0V190M420 0V190M480 0V190M540 0V190M330 35H560M330 95H560M330 155H560" stroke="#93C5FD" stroke-opacity=".07"/>
+<text x="30" y="37" fill="#93C5FD" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="2">01 / MULTI-AGENT SYSTEM</text>
+<text x="30" y="86" fill="#F1F5F9" font-family="Segoe UI, Arial, sans-serif" font-size="33" font-weight="700">Code Agent</text>
+<text x="30" y="116" fill="#A9B8D3" font-family="Segoe UI, Arial, sans-serif" font-size="15">One task. A team of agents.</text>
+<path d="M31 153H276" stroke="#93C5FD" stroke-opacity=".25" stroke-width="2"/>
+<g fill="#93C5FD"><circle cx="31" cy="153" r="4"/><circle cx="113" cy="153" r="4"/><circle cx="195" cy="153" r="4"/><circle cx="276" cy="153" r="4"/></g>
+<circle cx="440" cy="95" r="69" stroke="#93C5FD" stroke-opacity=".16"/>
+<path d="M409 72L385 95L409 118M471 72L495 95L471 118M452 60L428 130" stroke="#93C5FD" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
