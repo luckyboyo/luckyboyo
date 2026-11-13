@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Fang Ziyue</title>
+  <desc id="desc">AI Agents · RAG · AI Engineering. A blue and mint wave banner.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="20" x2="1200" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="0.52" stop-color="#279BCC"/>
+      <stop offset="1" stop-color="#5EEAD4"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="white" fill-opacity="0.15"/>
+    </pattern>
+    <clipPath id="bounds"><rect width="1200" height="300" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <path d="M0 0H1200V268C964 242 777 258 570 275C351 293 166 282 0 261V0Z" fill="url(#background)"/>
+    <path d="M0 0H1200V268C964 242 777 258 570 275C351 293 166 282 0 261V0Z" fill="url(#dots)"/>
+    <circle cx="1135" cy="12" r="171" stroke="white" stroke-opacity="0.12" stroke-width="1.5"/>
+    <circle cx="1135" cy="12" r="131" stroke="white" stroke-opacity="0.12" stroke-width="1.5"/>
+    <circle cx="60" cy="250" r="126" stroke="white" stroke-opacity="0.1" stroke-width="1.5"/>
+    <path d="M0 238C260 280 416 278 626 254C855 227 1036 226 1200 246V268C964 242 777 258 570 275C351 293 166 282 0 261V238Z" fill="white" fill-opacity="0.2"/>
+    <text x="600" y="65" text-anchor="middle" fill="white" fill-opacity="0.85" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="4">HELLO, WORLD. I'M</text>
+    <text x="600" y="142" text-anchor="middle" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="66" font-weight="700" letter-spacing="-1.5">Fang Ziyue</text>
+    <text x="600" y="187" text-anchor="middle" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="500">AI Agents · RAG · AI Engineering</text>
+    <path d="M565 216H635" stroke="white" stroke-opacity="0.65" stroke-width="3" stroke-linecap="round"/>
+  </g>
+</svg>
