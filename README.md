@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/HKU-Robotics_%26_Intelligent_Systems-2563EB?style=for-the-badge" alt="香港大学 · 机器人与智能系统" />
-  <a href="https://github.com/luckyboyo/resume-site"><img src="https://img.shields.io/badge/Portfolio-My_Work-0D9488?style=for-the-badge&logo=github&logoColor=white" alt="个人简历与项目作品集" /></a>
+  <a href="https://fangziyue.cn"><img src="https://img.shields.io/badge/Website-fangziyue.cn-0D9488?style=for-the-badge" alt="个人网站 · 在线简历与项目作品集" /></a>
 </p>
 
 ---
@@ -62,6 +62,8 @@
 ### 🌐 [Resume Site · 个人简历与作品集](https://github.com/luckyboyo/resume-site)
 
 以简洁的页面呈现教育背景、技术经历和项目实践，使用 Next.js、TypeScript 与 Tailwind CSS 构建，支持静态导出部署。
+
+[在线简历 ↗](https://fangziyue.cn)
 
 `Next.js` `React` `TypeScript` `Tailwind CSS`
 
